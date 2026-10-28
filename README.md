@@ -1,0 +1,2 @@
+# zaahir
+AI-untuk-umkm
